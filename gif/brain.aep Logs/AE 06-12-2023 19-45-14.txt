@@ -1,0 +1,8 @@
+  06/12/2023 19:45:14: Starting composition “brain”.
+
+  Output To: D:\portofolio (react js)\Portofolio bs\gif\brain.mov    06/12/2023 19:45:34: Finished composition “brain”.
+
+
+  Total Time Elapsed: 20 Seconds
+Log closed on 06/12/2023 at 19:45:34
+
